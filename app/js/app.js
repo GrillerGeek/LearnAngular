@@ -1,3 +1,3 @@
 'use strict';
 
-var eventsApp = angular.module('myApp', []);
+var eventsApp = angular.module('eventsApp', []);
